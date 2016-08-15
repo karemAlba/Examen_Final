@@ -1,0 +1,179 @@
+.fondog{
+	background-color: #D7DBDD;
+}
+.font-size1{
+	font-size: 58px;
+}
+
+.font-size2{
+	font-size: 40px;
+}
+
+.botonMenu{
+	width: 145px;
+	height: 51px;
+	background-color: #888;
+	border: none;
+	color: white;
+	font-size: 19px;
+}
+.padding4{
+	padding-top: 2%;
+	margin-right: 80%;
+}
+.pd-top4{
+	padding-top: 4%;
+}
+
+.pd-top3{
+	padding-top: 1%;
+	padding-left: 7%;
+}/*Icono Navegador*/
+
+.pl-38{
+	padding-left: 38%;
+}
+
+.pl-3{
+	padding-left: 3%;
+}
+
+ .pt8-pb5{
+ 	padding-top: 8%;
+ 	padding-bottom: 5%;
+ }
+
+ .pt3-pb13{
+ 	padding-top: 3%;
+ 	padding-bottom: 13%;
+ }
+
+ .pb-3{
+ 	padding-bottom: 3%;
+ }
+
+ .pb-1{
+ 	padding-bottom: 1%;
+ }
+.imagenes{
+	width: 530px;
+	margin-top: 10px;
+}
+.fondocaj{
+	background-color: white;
+	width: 560px;
+	height: 370px;
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.boton{
+	background-color: #808B96;
+	border: none;
+	color: white;
+	padding: 10px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	margin-left: 550px;
+	margin-top: 10px;
+	width: 150px;
+	height: 50px;
+	margin-bottom: 20px;
+}
+.boton1{
+	background-color: #34495E;
+	border: none;
+	color: white;
+	padding: 10px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	margin-left: 540px;
+	margin-top: 10px;
+	width: 150px;
+	height: 50px;
+	margin-bottom: 20px;
+	font-size: 15px;
+}
+.fondo1{
+	background-image: url(../img/background/city.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+.texto{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 90px;
+}
+.texto1{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 150px;
+}
+.fondocaja{
+	background-color: white;
+	width: 400px;
+	height: 640px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+.caja{
+	background-color: #1C2833;
+	width: 350px;
+	height: 130px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.texto3{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	padding: 50px;
+	font-size: 30px;
+}
+.caja2{
+	background-color: #CACFD2;
+	color: grey;
+	width: 350px;
+	height: 130px;
+	margin-bottom: 50px;
+	padding: 40px;
+	font-size: 23px;	
+}
+.text{
+	font-size: 20px;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.cajaa{
+	background-color: #7FB3D5;
+	width: 350px;
+	height: 130px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.botona{
+	background-color: #1C2833;
+	border: none;
+	color: white;
+	padding: 10px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	margin-top: 10px;
+	width: 150px;
+	height: 50px;
+	margin-bottom: 20px;
+}
+			

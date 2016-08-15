@@ -1,0 +1,100 @@
+ul, ol {
+	list-style:none;
+	margin-left: 400px;
+	margin-top: 30px;
+
+}
+.nav > li {
+	float:left;
+	margin-left: 5px;
+}
+.nav li a {
+	background-color:white;
+	color:black;
+	text-decoration:none;
+	padding:10px 12px;
+	display:block;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+}
+.nav li a:hover {
+	background-color:#2888F1;
+	color: white;
+}
+h2{
+	margin-top: 10px;
+	text-align: center;
+}
+p{
+	margin-top: 20px;
+}
+.ulmenu{
+	text-decoration: none;
+	font-size: 18px;
+}/*Estilos del menu*/
+
+.limenu{
+	text-decoration: none;
+	display: inline-block;
+	padding: 3%;
+	
+}/*Estilos del menu*/
+
+.bgMenu{
+	background-image: url(../img/background/hero.jpg);
+	height: 690px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:top;
+	opacity: 0.8;
+}/*Estilos del menu*/
+
+.imgtamaño{
+	width: 65%;
+}/*More Features imagen*/
+
+.color-black{
+	color: black;
+	font-size: 18px;
+}
+
+.imgCustomer{
+	width: 10%;
+}
+
+.imgcircular{
+	border-radius: 200%;
+}
+.fondocon{
+	background-image: url("../img/background/contactus.jpg");
+	height: 600px;
+}
+form{
+	margin-top: 20px;
+	margin-left: 160px;
+
+}
+input{
+	margin-top: 30px;
+	border-radius: 5px;
+	width: 300px;
+	background-color: transparent;
+
+}
+textarea{
+	margin-top: 30px;
+	border-radius: 5px;
+	width: 300px;
+	height: 200px;
+	background-color: transparent;
+}
+.iconos{
+	width: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+footer{
+	background-color: grey;
+	height: 50px;
+}
